@@ -3,6 +3,90 @@
 
 <div align="center">
 
+<!-- Header Image -->
+<img src="https://github.com/Somanath-Singh/Somanath-Singh/blob/main/header-img.jpg" alt="Header Image" style="width:100%;">
+
+<div align="center">
+
+# 👋 Hi, I'm Trilochan Behera
+### 💻 Java Backend Developer | Full Stack Enthusiast | Tech Explorer
+
+</div>
+
+---
+
+### 📘 Short Bio
+> I'm **Trilochan Behera**, a Java backend developer from India with a passion for building scalable, secure, and performant web applications. With strong fundamentals in **Core Java, Spring Boot, JPA**, and **RESTful APIs**, I love converting ideas into clean, efficient code. I thrive in collaborative environments and enjoy solving real-world problems through software. My goal is to contribute to impactful projects and continuously learn modern technologies.
+
+---
+
+### 🚀 Languages & Tools
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%236DB33F?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+
+</div>
+
+---
+
+### 🛠️ Technical Skills
+
+| Category            | Skills                                                                 |
+|---------------------|------------------------------------------------------------------------|
+| **Core Java**        | OOPs, Collections, Exception Handling, Multithreading                  |
+| **Backend**          | JDBC, JSP, Servlets, JNDI                                              |
+| **Frameworks**       | Spring Boot, Spring MVC, JPA, Spring Security, REST API               |
+| **Frontend**         | HTML5, CSS3, JavaScript, Bootstrap, React.js                          |
+| **Databases**        | MySQL, Oracle, PostgreSQL                                              |
+| **Version Control**  | Git, GitHub                                                            |
+| **Tools**            | Eclipse, Postman, SQL Developer, MySQL Workbench                      |
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:trilochanbehera@example.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/somanathsingh531" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Somanath-Singh"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://somanath-singh.github.io/Somanath-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" alt="Portfolio"></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somanath-Singh&show_icons=true&theme=github_dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanath-Singh&layout=compact&theme=github_dark" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Somanath-Singh&theme=dark&hide_border=true">
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I debug bugs faster than I debug my own emotions 😄
+
+---
+
+
+
 # 👋 Hi, I'm **Trilochan Behera**  
 ### 💻 Passionate Java Backend Developer from India
 
