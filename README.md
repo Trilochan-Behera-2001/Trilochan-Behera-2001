@@ -52,10 +52,9 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:trilochanbehera@example.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/somanathsingh531" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/Somanath-Singh"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://somanath-singh.github.io/Somanath-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" alt="Portfolio"></a>
+  <a href="mailto:tri28chan@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://linkedin.com/in/tri28chan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Trilochan-Behera-2001"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ---
@@ -63,12 +62,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somanath-Singh&show_icons=true&theme=github_dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanath-Singh&layout=compact&theme=github_dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trilochan-Behera-2001&show_icons=true&theme=github_dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trilochan-Behera-2001&layout=compact&theme=github_dark" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Somanath-Singh&theme=dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Trilochan-Behera-2001&theme=dark&hide_border=true">
 </p>
 
 
@@ -101,17 +100,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trilochan-Behera-2001&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trilochan-Behera-2001&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Trilochan-Behera-2001" alt="GitHub Streak" />
-</p>
-
----
 
 ### 💬 Ask Me About
 
