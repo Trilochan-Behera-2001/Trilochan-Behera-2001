@@ -103,9 +103,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somanath-Singh&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanath-Singh&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Somanath-Singh" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trilochan-Behera-2001&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trilochan-Behera-2001&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Trilochan-Behera-2001" alt="GitHub Streak" />
 </p>
 
 ---
